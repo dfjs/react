@@ -23,5 +23,9 @@
     "babel-preset-react": "^6.23.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
+  },
+  "dependencies": {
+    "history": "^1.13.1",
+    "react-router": "^1.0.1"
   }
 }
